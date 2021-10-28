@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: icomply-cookie-notice\n"
+"POT-Creation-Date: 2021-05-07 17:25+0300\n"
+"PO-Revision-Date: 2021-05-07 17:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin/views\n"
+
+#: admin/views/general-settings.php:14
+msgid "Cookie Notice Settings"
+msgstr ""
+
+#: admin/views/general-settings.php:33 admin/views/general-settings.php:65
+msgid "Cookie Notice is currently active"
+msgstr ""
+
+#: admin/views/general-settings.php:42 admin/views/general-settings.php:74
+msgid "Cookie Notice is currently inactive"
+msgstr ""
+
+#: admin/views/general-settings.php:89
+msgid "iComply - Cookie Notice"
+msgstr ""
+
+#: admin/views/general-settings.php:100
+msgid "Features"
+msgstr ""
+
+#: admin/views/general-settings.php:105
+msgid "3 color themes and 4 positions to choose from"
+msgstr ""
+
+#: admin/views/general-settings.php:106
+msgid "Cross browser compatible"
+msgstr ""
+
+#: admin/views/general-settings.php:107
+msgid "Smooth show in animation"
+msgstr ""
+
+#: admin/views/general-settings.php:108
+msgid "Quick Installation and Simple Configuration"
+msgstr ""
+
+#: admin/views/general-settings.php:109
+msgid "Powered by Pure Javascript"
+msgstr ""
+
+#: admin/views/general-settings.php:113
+msgid "Need help ? Ask for support!"
+msgstr ""
+
+#: icomply-cookie-notice.php:125
+msgid "Enable Cookie Notice then choose color and position options."
+msgstr ""
+
+#: icomply-cookie-notice.php:128
+msgid "Customize your cookie notice message."
+msgstr ""
+
+#: icomply-cookie-notice.php:131
+msgid "Set the title and links for your buttons."
+msgstr ""
+
+#: icomply-cookie-notice.php:134
+msgid "Other settings."
+msgstr ""
+
+#: icomply-cookie-notice.php:191
+msgid "Upload"
+msgstr ""
+
+#: icomply-cookie-notice.php:192
+msgid "Clear"
+msgstr ""
+
+#: icomply-cookie-notice.php:226
+msgid "General Settings"
+msgstr ""
+
+#: icomply-cookie-notice.php:227
+msgid "Customize Message"
+msgstr ""
+
+#: icomply-cookie-notice.php:228
+msgid "Customize Buttons"
+msgstr ""
+
+#: icomply-cookie-notice.php:229
+msgid "Advanced Settings"
+msgstr ""
+
+#: icomply-cookie-notice.php:235
+msgid "Enable Cookie Notice:"
+msgstr ""
+
+#: icomply-cookie-notice.php:239
+msgid "ON"
+msgstr ""
+
+#: icomply-cookie-notice.php:240
+msgid "OFF"
+msgstr ""
+
+#: icomply-cookie-notice.php:244
+msgid "Enable/Disable Cookie Notice."
+msgstr ""
+
+#: icomply-cookie-notice.php:249
+msgid "Position:"
+msgstr ""
+
+#: icomply-cookie-notice.php:253
+msgid "Top"
+msgstr ""
+
+#: icomply-cookie-notice.php:254
+msgid "Left"
+msgstr ""
+
+#: icomply-cookie-notice.php:255
+msgid "Bottom"
+msgstr ""
+
+#: icomply-cookie-notice.php:256
+msgid "Right"
+msgstr ""
+
+#: icomply-cookie-notice.php:260
+msgid "Choose Cookie Bar Position."
+msgstr ""
+
+#: icomply-cookie-notice.php:266
+msgid "Color Theme:"
+msgstr ""
+
+#: icomply-cookie-notice.php:270
+msgid "Default (Light Brown)"
+msgstr ""
+
+#: icomply-cookie-notice.php:271
+msgid "Light"
+msgstr ""
+
+#: icomply-cookie-notice.php:272
+msgid "Dark"
+msgstr ""
+
+#: icomply-cookie-notice.php:276
+msgid "Choose Cookie Bar Color Theme."
+msgstr ""
+
+#: icomply-cookie-notice.php:284
+msgid "Message:"
+msgstr ""
+
+#: icomply-cookie-notice.php:290
+msgid "Add your cookie notice message."
+msgstr ""
+
+#: icomply-cookie-notice.php:292
+msgid ""
+"We use cookies to ensure that we give you the best experience on our "
+"website. By continuing to use our site, you accept our cookie policy Terms."
+msgstr ""
+
+#: icomply-cookie-notice.php:296
+msgid "Cookie Image:"
+msgstr ""
+
+#: icomply-cookie-notice.php:300
+msgid "SHOW"
+msgstr ""
+
+#: icomply-cookie-notice.php:301
+msgid "HIDE"
+msgstr ""
+
+#: icomply-cookie-notice.php:306
+msgid "Show/Hide Cookie Image."
+msgstr ""
+
+#: icomply-cookie-notice.php:313
+msgid "Privacy Button Text:"
+msgstr ""
+
+#: icomply-cookie-notice.php:317
+msgid "Privacy Button Text"
+msgstr ""
+
+#: icomply-cookie-notice.php:319
+msgid "Leave empty to hide this button on the front-end."
+msgstr ""
+
+#: icomply-cookie-notice.php:321
+msgid "Privacy Policy"
+msgstr ""
+
+#: icomply-cookie-notice.php:325
+msgid "Privacy Button Link:"
+msgstr ""
+
+#: icomply-cookie-notice.php:331
+msgid "Add link to your privacy policy page."
+msgstr ""
+
+#: icomply-cookie-notice.php:337
+msgid "Accept Button Text:"
+msgstr ""
+
+#: icomply-cookie-notice.php:341
+msgid "Accept Button Text"
+msgstr ""
+
+#: icomply-cookie-notice.php:345
+msgid "Accept Cookies"
+msgstr ""
+
+#: icomply-cookie-notice.php:351
+msgid "Delete iComply Cookies:"
+msgstr ""
+
+#: icomply-cookie-notice.php:352
+msgid "Delete plugin Cookies"
+msgstr ""
+
+#: icomply-cookie-notice.php:358
+msgid "Remove all Cookies."
+msgstr ""
